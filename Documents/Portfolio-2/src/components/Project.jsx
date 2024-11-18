@@ -34,7 +34,8 @@ const Project = () => {
     {
       img:project5,
       name:"MemoirIt",
-      github_link:"https://github.com/prathyushaa5/MemoirIt.git"
+      github_link:"https://github.com/prathyushaa5/MemoirIt.git",
+    }
   ];
 
   return (
