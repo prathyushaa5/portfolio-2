@@ -30,6 +30,10 @@ const Project = () => {
       name: "Book Bridge-A user friendly website  Using MERN Stack",
       github_link: "https://github.com/prathyushaa5/Book-Store",
     },
+    {
+      img:project5,
+      name:"MemoirIt",
+      github_link:"https://github.com/prathyushaa5/MemoirIt.git"
   ];
 
   return (
