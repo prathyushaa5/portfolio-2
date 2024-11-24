@@ -24,7 +24,7 @@ const About = () => {
           <div className="p-2">
             <div className="text-gray-300 my-3">
               <p className="text-justify leading-7  mx-auto">
-              I am Prathyusha, a 20-year-old engineering student from Surathkal, Mangalore. Currently, I am in my third year of studying Computer Science at St. Joseph Engineering College, Mangalore. Passionate about technology and problem-solving, I am eager to continue expanding my knowledge and skills in the field of computer science.
+              I am Prathyusha, a 20-year-old engineering student from Surathkal, Mangalore. Currently, I am in my fourth year of studying Computer Science at St. Joseph Engineering College, Mangalore. Passionate about technology and problem-solving, I am eager to continue expanding my knowledge and skills in the field of computer science.
               </p>
             
               <br />
