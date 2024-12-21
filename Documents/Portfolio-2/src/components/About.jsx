@@ -3,7 +3,7 @@ import aboutImg from "../assets/images/about.png";
 const About = () => {
   const handleDownload = () => {
     // Replace with the path to your CV file
-    const cvUrl = "../assets/prathyusha-resume.pdf"
+    const cvUrl = "../assets/Resume(1).pdf"
     // Create a link element
     const link = document.createElement('a');
     link.href = cvUrl;
