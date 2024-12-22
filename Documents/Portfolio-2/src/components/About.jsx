@@ -7,7 +7,7 @@ const About = () => {
     // Create a link element
     const link = document.createElement('a');
     link.href = cvUrl;
-    link.download = 'resume-prathyusha.pdf'; // Optional: Set the default filename for the download
+    link.download = 'Resume(1).pdf'; // Optional: Set the default filename for the download
     link.target = '_blank'; // Optional: Open in a new tab
     
     // Trigger the download
