@@ -32,7 +32,7 @@ const Skills = () => {
                 key={index}
                 src={image}
                 alt={`Skill ${index + 1}`}
-                className="md:w-16 w-10 h-auto object-contain transition-transform transform hover:scale-110 hover:drop-shadow-lg"
+                className="md:w-12 w-8 h-auto object-contain transition-transform transform hover:scale-110 hover:drop-shadow-lg"
               />
             )
           )}
@@ -50,7 +50,7 @@ const Skills = () => {
               key={index}
               src={image}
               alt={`Tool ${index + 1}`}
-              className="md:w-16 w-10 h-auto object-contain transition-transform transform hover:scale-110 hover:drop-shadow-lg"
+              className="md:w-12 w-8 h-auto object-contain transition-transform transform hover:scale-110 hover:drop-shadow-lg"
             />
           ))}
         </div>
